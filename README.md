@@ -21,7 +21,7 @@ Hi and welcome, this is a weather site i designed .
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://tolu-viewweather.vercel.app/)
+-  [live site URL here](https://tolu-viewweather.vercel.app/)
 ## The process
 So i wanted to create a site where users can enter a city name and search the weather forecast for their specified city, i first wrote all my Html code which was no 
 trouble then i used CSS to style it and then the major part was done using javascript , to get the weather forecast i had to integrate an API and i used 'my weather API', i created 
@@ -30,4 +30,4 @@ a free account generated a key and that key was what i used in my JS code to con
 Thank you for taking out your time to readthis!
 ### Useful resources 
 Special thanks goes to the youtube channel devression 
-The video link is here (https://youtu.be/74IOjtVvExY?si=R9ZjfjF9eutS68xe)
+[The video link is here](https://youtu.be/74IOjtVvExY?si=R9ZjfjF9eutS68xe)
